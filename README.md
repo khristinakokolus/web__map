@@ -9,7 +9,7 @@ Modules folium and geopy have to be installed.
 
 
 ### The structure of the html file
-It consists of three parts: head, body and script. The <head> is intended for browsers and search systems. <body> is the body of the document and it saves the content of the web page. As for <script> it is used to embed or refer to JavaScript code. Also html file uses cascading style sheets, which are used for design improvements of it.
+It consists of three parts: head, body and script. The head is intended for browsers and search systems. Body is the body of the document and it saves the content of the web page. As for <script> it is used to embed or refer to JavaScript code. Also html file uses cascading style sheets, which are used for design improvements of it.
   
 
 ### Examples of the generated map
